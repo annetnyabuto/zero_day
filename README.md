@@ -3,7 +3,7 @@
 *A README.md file at the root of the repo, containing a description of the repository.
 *A README.md file, at the root of the folder of this project describing what this project is about.
 ###Tasks
-####Create and setup your Git and GitHub account
+####Create and setup your Git and GitHub account####
 -Install git on your local machine
 *on github create a repository with the following:
 -Description:This is my first repository as a full-stack engineer
